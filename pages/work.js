@@ -5,8 +5,8 @@ import Projects from "../components/Projects";
 
 export default function projects() {
   return (
-    <ContainerBlock title="Projects">
-      <Projects sectionName="Projects" projectMap={userData.projects}/>
+    <ContainerBlock title="Work">
+      <Projects sectionName="Work" projectMap={userData.work}/>
     </ContainerBlock>
   );
 }

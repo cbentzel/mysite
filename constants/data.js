@@ -4,7 +4,7 @@ const userData = {
   avatarUrl: "/avatar.jpg",
   email: "cbentzel@gmail.com",
   address: "Quincy, Massachusetts.",
-  projects: [
+  work: [
     {
       title: "Spot",
       link: "https://bostondynamics.com/products/spot",
@@ -40,10 +40,42 @@ const userData = {
       link: "https://feedmeback.vercel.app",
       imgUrl: "/feedmeback.png",
     },
+  ],
+  projects: [
     {
-      title: "MIT",
-      link: "https://devmedium.vercel.app",
-      imgUrl: "/devmedium.png",
+      title: "Farting",
+      link: "https://bostondynamics.com/products/spot",
+      imgUrl: "/spot.jpg",
+    },
+    {
+      title: "Joy",
+      link: "https://google.com/chrome",
+      imgUrl: "/chrome-dino.jpeg",
+    },
+    {
+      title: "YouTube",
+      link: "https://www.youtube.com",
+      imgUrl: "/youtube.png",
+    },
+    {
+      title: "Google Talk",
+      link: "https://en.wikipedia.org/wiki/Google_Talk",
+      imgUrl: "/covidrescue.png",
+    },
+    {
+      title: "Sly Cooper",
+      link: "https://algochurn.com",
+      imgUrl: "/algochurn.png",
+    },
+    {
+      title: "Rocket, Robot on Wheels",
+      link: "https://play.placeholdertech.in",
+      imgUrl: "/playground.png",
+    },
+    {
+      title: "3D0",
+      link: "https://feedmeback.vercel.app",
+      imgUrl: "/feedmeback.png",
     },
   ],
   about: {
