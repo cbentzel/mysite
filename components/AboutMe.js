@@ -11,7 +11,10 @@ export default function AboutMe() {
         {/* Text container */}
         <div className="w-full md:w-1/2 mx-auto text-center content-center md:text-left lg:p-20">
           <p className="md:text-right font-sans text-lg">
-          I'm Chris Bentzel. 
+            I'm Chris Bentzel.
+          </p>
+          <p className="md:text-right font-sans text-lg">
+            I enjoy building great products, as well as the teams that build those products.
           </p>
         </div>
         {/* Image container */}
