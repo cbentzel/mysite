@@ -10,6 +10,7 @@ const userData = {
       title: "Spot",
       link: "https://bostondynamics.com/products/spot",
       imgUrl: "/spot.jpg",
+      description: "I'm the Director of Software for Spot. This is "
     },
     {
       title: "Chrome",

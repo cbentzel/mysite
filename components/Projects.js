@@ -11,6 +11,7 @@ export default function Projects(props) {
               title={proj.title}
               link={proj.link}
               imgUrl={proj.imgUrl}
+              description={proj.description}
             />
           ))}
         </div>
@@ -19,12 +20,9 @@ export default function Projects(props) {
   );
 }
 
-const ProjectCard = ({ title, link, imgUrl}) => {
+const ProjectCard = ({ title, link, imgUrl, description }) => {
   return (
     <div>
-      <div className="w-2/5 block text-4xl h-12 text-center text-gray-700 dark:text-gray-300">
-        {title}
-      </div>
       <div className="flex gap-8">
         <a href={link} className="w-2/5 block shadow-2xl">
           <div className="relative overflow-hidden">
@@ -37,11 +35,15 @@ const ProjectCard = ({ title, link, imgUrl}) => {
             </div>
           </div>
         </a>
-        <div className="w-3/5 block">
-          fadfsafdsa
+        <div className="w-3/5 block text-xl">
+          {description}
         </div>
       </div>
-      <div className="w-2/5 block text-6xl h-20 text-center text-gray-700 dark:text-gray-300">
+      <div className="flex gap-16">
+        <div className="w-2/5 block text-xl h-16 text-center text-gray-700 dark:text-gray-300">
+          {title}
+        </div>
+        <div className="w-3/5"></div>
       </div>
     </div>
   );
