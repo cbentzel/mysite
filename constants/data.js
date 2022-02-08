@@ -20,7 +20,7 @@ const userData = {
     {
       title: "YouTube",
       link: "https://www.youtube.com",
-      imgUrl: "/youtube_play.png",
+      imgUrl: "/youtube.png",
     },
     {
       title: "Google Talk",
