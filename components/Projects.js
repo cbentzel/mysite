@@ -3,11 +3,6 @@ import React from "react";
 export default function Projects(props) {
   return (
     <section className="bg-white dark:bg-gray-800">
-      <div className="max-w-6xl mx-auto h-48 bg-white dark:bg-gray-800">
-        <h1 className=" text-5xl md:text-9xl font-bold py-20 text-center md:text-left">
-          {props.sectionName}
-        </h1>
-      </div>
       {/* Grid starts here */}
       <div className="bg-[#F1F1F1] dark:bg-gray-900">
         <div className="max-w-6xl mx-auto grid grid-cols-1 md:grid-cols-1 gap-8 py-20 pb-40">
@@ -27,7 +22,7 @@ export default function Projects(props) {
 const ProjectCard = ({ title, link, imgUrl}) => {
   return (
     <div>
-      <div className="w-2/5 block text-6xl text-center text-gray-700 dark:text-gray-300">
+      <div className="w-2/5 block text-4xl h-12 text-center text-gray-700 dark:text-gray-300">
         {title}
       </div>
       <div className="flex gap-8">
@@ -45,6 +40,8 @@ const ProjectCard = ({ title, link, imgUrl}) => {
         <div className="w-3/5 block">
           fadfsafdsa
         </div>
+      </div>
+      <div className="w-2/5 block text-6xl h-20 text-center text-gray-700 dark:text-gray-300">
       </div>
     </div>
   );
