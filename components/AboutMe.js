@@ -1,7 +1,5 @@
 import React from "react";
 import userData from "@constants/data";
-import { RoughNotation, RoughNotationGroup } from "react-rough-notation";
-import { RainbowHighlight } from "./RainbowHighlight";
 
 export default function AboutMe() {
   const colors = ["#F59E0B", "#84CC16", "#10B981", "#3B82F6"];
