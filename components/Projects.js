@@ -39,6 +39,9 @@ const ProjectCard = ({ title, link, imgUrl, description }) => {
           {description}
         </div>
       </div>
+      <div className="h-4">
+
+      </div>
       <div className="flex gap-16">
         <div className="w-2/5 block text-xl h-16 text-center text-gray-700 dark:text-gray-300">
           {title}
