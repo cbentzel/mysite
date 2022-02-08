@@ -10,10 +10,10 @@ export default function AboutMe() {
       <div className="flex flex-row justify-center items-start overflow-hidden">
         {/* Text container */}
         <div className="w-full md:w-1/2 mx-auto text-center content-center md:text-left lg:p-20">
-          <p className="md:text-right font-sans text-lg">
+          <p className="md:text-right font-sans text-xl">
             I'm Chris Bentzel.
           </p>
-          <p className="md:text-right font-sans text-lg">
+          <p className="md:text-right font-sans text-xl">
             I enjoy building great products, as well as the teams that build those products.
           </p>
         </div>

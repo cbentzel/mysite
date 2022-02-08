@@ -14,32 +14,32 @@ const userData = {
     {
       title: "Chrome",
       link: "https://google.com/chrome",
-      imgUrl: "/chrome-dino.jpeg",
+      imgUrl: "/google_chrome.jpeg",
     },
     {
       title: "YouTube",
       link: "https://www.youtube.com",
-      imgUrl: "/youtube.png",
+      imgUrl: "/youtube_play.png",
     },
     {
       title: "Google Talk",
       link: "https://en.wikipedia.org/wiki/Google_Talk",
-      imgUrl: "/covidrescue.png",
+      imgUrl: "/google_talk.jpeg",
     },
     {
       title: "Sly Cooper",
-      link: "https://algochurn.com",
-      imgUrl: "/algochurn.png",
+      link: "https://en.wikipedia.org/wiki/Sly_Cooper",
+      imgUrl: "/sly_cooper.jpeg",
     },
     {
       title: "Rocket, Robot on Wheels",
-      link: "https://play.placeholdertech.in",
-      imgUrl: "/playground.png",
+      link: "https://en.wikipedia.org/wiki/Rocket:_Robot_on_Wheels",
+      imgUrl: "/rocket.jpeg",
     },
     {
       title: "3D0",
-      link: "https://feedmeback.vercel.app",
-      imgUrl: "/feedmeback.png",
+      link: "https://en.wikipedia.org/wiki/3DO_Interactive_Multiplayer",
+      imgUrl: "/3do.jpeg",
     },
   ],
   projects: [
