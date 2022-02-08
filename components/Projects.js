@@ -41,7 +41,7 @@ const ProjectCard = ({ title, link, imgUrl}) => {
           </h1>
         </div>
       </a>
-      <div className="w-3/5 block bg-white dark:bg-gray-800 shadow-2xl">
+      <div className="w-3/5 block">
         fadfsafdsa
       </div>
     </div>
