@@ -5,7 +5,7 @@ export default function AboutMe() {
   const colors = ["#F59E0B", "#84CC16", "#10B981", "#3B82F6"];
   return (
     <section className="bg-white dark:bg-gray-800">
-      <div className="flex flex-row justify-center items-start overflow-hidden">
+      <div className="flex flex-row justify-center items-start overflow-hidden bg-[#F1F1F1] dark:bg-gray-900">
         {/* Text container */}
         <div className="w-full md:w-1/2 mx-auto text-center content-center md:text-left lg:p-20">
           <p className="md:text-right font-sans text-xl">
