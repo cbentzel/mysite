@@ -172,14 +172,11 @@ export default function Navbar() {
           >
             <svg
               xmlns="http://www.w3.org/2000/svg" 
-              class="a-icon"
-              aria-hidden="true"
-              role="presentation"
               width="16"
               height="16"
               viewBox="0 0 16 16"
+              className="bi bi-email h-5 w-5"
               fill="currentColor">
-              <path d="M18 .5H.5v14H18V.5zM16.25 4l-7 4.375L2.25 4V2.25l7 4.375 7-4.375V4z"></path>
               <path d="M18 .5H.5v14H18V.5zM16.25 4l-7 4.375L2.25 4V2.25l7 4.375 7-4.375V4z"></path>
             </svg>
           </a>
