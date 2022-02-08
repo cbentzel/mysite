@@ -2,6 +2,7 @@ const userData = {
   githubUsername: "cbentzel",
   name: "Chris Bentzel",
   avatarUrl: "/avatar.jpg",
+  homeUrl: "/mountains.jpg",
   email: "cbentzel@gmail.com",
   address: "Quincy, Massachusetts.",
   work: [
