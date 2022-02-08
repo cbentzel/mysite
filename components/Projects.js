@@ -26,23 +26,25 @@ export default function Projects(props) {
 
 const ProjectCard = ({ title, link, imgUrl}) => {
   return (
-    <div className="flex gap-8">
-      <a href={link} className="w-2/5 block shadow-2xl">
-        <div className="relative overflow-hidden">
-          <div className="h-72 object-cover">
-            <img
-              src={imgUrl}
-              alt="portfolio"
-              className="transform hover:scale-110 transition duration-2000 ease-out object-cover h-full w-full"
-            />
+    <div>
+      <div className="w-2/5 block text-6xl text-center text-gray-700 dark:text-gray-300">
+        {title}
+      </div>
+      <div className="flex gap-8">
+        <a href={link} className="w-2/5 block shadow-2xl">
+          <div className="relative overflow-hidden">
+            <div className="h-72 object-cover">
+              <img
+                src={imgUrl}
+                alt="portfolio"
+                className="transform hover:scale-110 transition duration-2000 ease-out object-cover h-full w-full"
+              />
+            </div>
           </div>
-          <h1 className="absolute top-10 left-10 text-gray-50 font-bold text-xl bg-red-500 rounded-md px-2">
-            {title}
-          </h1>
+        </a>
+        <div className="w-3/5 block">
+          fadfsafdsa
         </div>
-      </a>
-      <div className="w-3/5 block">
-        fadfsafdsa
       </div>
     </div>
   );
