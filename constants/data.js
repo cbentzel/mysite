@@ -16,7 +16,7 @@ const userData = {
       title: "Chrome",
       link: "https://google.com/chrome",
       imgUrl: "/google_chrome.jpeg",
-      description: "I was a Director of Engineering for Chrome, focused on networking and advertising on the web. This was my first foray into management and organizational leadership, and I learned a lot along the way. My team had bottom-line impact on Google's business, as well as advancing the state of the Internet through the creation of protocols like HTTP/2 and HTTP/3, the Better Ads Standard, and kicking off work on improving privacy for trackers."
+      description: "I was a Director of Engineering for Chrome, focused on networking and advertising on the web. This was my first foray into management and organizational leadership, and I learned a lot along the way. My team had bottom-line impact on Google's business (increased engagement and revenue), as well as advancing the state of the Internet through the creation of protocols like HTTP/2 and HTTP/3, the Better Ads Standard, and kicking off work on improving privacy for trackers."
     },
     {
       title: "YouTube",
@@ -34,7 +34,7 @@ const userData = {
       title: "Sly Cooper",
       link: "https://en.wikipedia.org/wiki/Sly_Cooper",
       imgUrl: "/sly_cooper.jpeg",
-      description: "I was an engineer on Sly Cooper - from very early prototypes with a tiny team to Tech Lead of Sly Cooper 3. This work was a great trial by fire, taking me from a shoddy engineer to reasonably competent at the end. Since it was a small team, I worked on a wide variety of areas: real-time engine work on PS2, art asset toolchains, game design, and even the occasional bit of animation and script writing. It's been exciting to share this series with my kids many years after it was done and have them still enjoy it."
+      description: "I was an engineer on Sly Cooper - from very early prototypes with a tiny team to Tech Lead of Sly Cooper 3. This work was a great trial by fire, taking me from a shoddy engineer to reasonably competent one at the end. Since it was a small team, I worked on a wide variety of areas: real-time engine work on PS2, art asset toolchains, game design, and even the occasional bit of animation and script writing. It's been exciting to share this series with my kids many years after it was done and have them still enjoy it."
     },
     {
       title: "Rocket, Robot on Wheels",
@@ -54,7 +54,7 @@ const userData = {
       title: "chrisbentzel.com",
       link: "https://chrisbentzel.com",
       imgUrl: "/chrisbentzel_com.png",
-      description: "This website."
+      description: "This is my personal website, built using next.js and hosted on Netlify. I started with "
     },
   ],
   socialLinks: {
