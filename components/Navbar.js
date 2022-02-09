@@ -22,7 +22,11 @@ export default function Navbar() {
         <div className="flex flex-col">
           <Link href="/">
             <a>
-              <p className="text-base font-semibold text-gray-500 dark:text-gray-300">
+              <p className={`text-base  ${
+                router.asPath === "/"
+                  ? "text-gray-800 font-bold dark:text-gray-400"
+                  : "text-gray-600 dark:text-gray-300 font-normal "
+              }`}>
                 {userData.name}
               </p>
             </a>
