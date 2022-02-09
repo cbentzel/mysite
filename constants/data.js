@@ -10,7 +10,7 @@ const userData = {
       title: "Spot",
       link: "https://bostondynamics.com/products/spot",
       imgUrl: "/spot.jpg",
-      description: "I'm the Director of Software for Spot, Boston Dynamics' first commercial robot. My team works on everything from firmware up to UIs. There's a ton of interesting technical challenges such as real-time performance for robot software, efficient use of networking resources, and measuring and improving the reliability of the manufacturing process. We're also building out a new product category in conjunction with many partners. Contact me if you're interested in discussing open positions."
+      description: "I'm the Director of Software for Spot, Boston Dynamics' first commercial robot. My team works on everything from firmware up to UIs. There's a ton of interesting technical challenges such as real-time performance for robot software, efficient use of networking resources, and measuring and improving the reliability of the manufacturing process. We've also built a Dev Platform to create customer solutions with many partners. Contact me if you're interested in discussing open positions."
     },
     {
       title: "Chrome",
@@ -22,19 +22,19 @@ const userData = {
       title: "YouTube",
       link: "https://www.youtube.com",
       imgUrl: "/youtube.png",
-      description: "I was a Senior Engineer at YouTube. I was part of a small team that built Google's CDN for YouTube from scratch, as well as led early technical work on YouTube's live streaming architecture. One day I took down a significant fraction of YouTube's streaming capacity which led me to learn a lot about postmortems and more resilient architecture."
+      description: "I was a Senior Engineer at YouTube. I was part of a small team that built Google's CDN for YouTube from scratch, as well as led early technical work on YouTube's live streaming architecture. One day I took down a significant fraction of YouTube's streaming capacity which led me to learn a lot about postmortems, testing, and more resilient architecture."
     },
     {
       title: "Google Talk",
       link: "https://en.wikipedia.org/wiki/Google_Talk",
       imgUrl: "/google_talk.jpeg",
-      description: "I was an Engineer on Google Talk. This was my first exposure to servers, networking, and how to deploy and monitor an Internet Service. I worked on scaling infrastructure as well as AOL Instant Messenger - Google Talk integration."
+      description: "I was an Engineer on Google Talk. This was my first exposure to servers, networking, and how to deploy and monitor an Internet Service. I worked on scaling infrastructure, prototyping a way to embed chat in websites for customer service, and helped with the AOL Instant Messenger - Google Talk integration."
     },
     {
       title: "Sly Cooper",
       link: "https://en.wikipedia.org/wiki/Sly_Cooper",
       imgUrl: "/sly_cooper.jpeg",
-      description: "I was an engineer on Sly Cooper - from very early prototypes with a tiny team to Tech Lead of Sly Cooper 3. This work was a great trial by fire, taking me from a shoddy engineer to reasonably competent one at the end. Since it was a small team, I worked on a wide variety of areas: real-time engine work on PS2, art asset toolchains, game design, and even the occasional bit of animation and script writing. It's been exciting to share this series with my kids many years after it was done and have them still enjoy it."
+      description: "I was an engineer on Sly Cooper - from very early prototypes to Tech Lead of Sly Cooper 3. This work was a great trial by fire, taking me from a shoddy engineer to reasonably competent one at the end. Since it was a small team, I worked on a wide variety of areas: real-time engine work on PS2, art asset toolchains, game design, and even the occasional bit of animation and script writing. It's been exciting to share this series with my kids many years after it originally came out."
     },
     {
       title: "Rocket, Robot on Wheels",
@@ -54,7 +54,7 @@ const userData = {
       title: "chrisbentzel.com",
       link: "https://chrisbentzel.com",
       imgUrl: "/chrisbentzel_com.png",
-      description: "This is my personal website, built using next.js and hosted on Netlify. I started with "
+      description: "This is my personal website, built using next.js, tailwind css, and hosted on Netlify. I started with Manu Arora's example site but then made a number of modifications - that was a bit too flashy for my taste."
     },
   ],
   socialLinks: {
