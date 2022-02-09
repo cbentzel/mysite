@@ -23,7 +23,7 @@ export default function Projects(props) {
 const ProjectCard = ({ title, link, imgUrl, description }) => {
   return (
     <div>
-      <div className="flex gap-8">
+      <div className="flex gap-16">
         <a href={link} className="w-2/5 block shadow-2xl">
           <div className="relative overflow-hidden">
             <div className="h-72 object-cover">
@@ -35,7 +35,7 @@ const ProjectCard = ({ title, link, imgUrl, description }) => {
             </div>
           </div>
         </a>
-        <div className="w-3/5 block text-2xl font-sans-serif text-gray-700 dark:text-gray-300">
+        <div className="w-3/5 block text-2xl font-serif font-light text-gray-700 dark:text-gray-300">
           {description}
         </div>
       </div>

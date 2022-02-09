@@ -46,7 +46,7 @@ const userData = {
       title: "3D0",
       link: "https://en.wikipedia.org/wiki/3DO_Interactive_Multiplayer",
       imgUrl: "/3do.jpeg",
-      description: "I joined 3D0 immediately after college, and joined their tiny software R&D team. I built a rigid-body physics simulator to run on 1998-era computers. I then switched to an actual game, which we made from start to finish in about three months. It taught me a lot about how to rapidly develop work and cut corners where possible."
+      description: "I joined 3D0 immediately after college, working in their tiny software R&D team. I built a rigid-body physics simulator to run on 1998-era computers. I then switched to an actual game, which we made from start to finish in about three months. It taught me a lot about how to rapidly develop work and cut corners where possible."
     },
   ],
   projects: [
