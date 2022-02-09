@@ -63,17 +63,6 @@ export default function Navbar() {
               Projects
             </a>
           </Link>
-          <Link href="/writings">
-            <a
-              className={`text-base  ${
-                router.asPath === "/writings"
-                  ? "text-gray-800 font-bold dark:text-gray-400"
-                  : "text-gray-600 dark:text-gray-300 font-normal "
-              }`}
-            >
-              Writings
-            </a>
-          </Link>
         </div>
 
         <div className="space-x-4 flex flex-row items-center">
