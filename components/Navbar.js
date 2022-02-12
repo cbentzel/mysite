@@ -22,7 +22,7 @@ export default function Navbar() {
         <div className="flex flex-col">
           <Link href="/">
             <a>
-              <p className={`text-base text-xs ${
+              <p className={`text-base ${
                 router.asPath === "/"
                   ? "text-gray-800 font-bold dark:text-gray-400"
                   : "text-gray-600 dark:text-gray-300 font-normal "
@@ -34,17 +34,6 @@ export default function Navbar() {
         </div>
 
         <div className="space-x-8 hidden md:block">
-          <Link href="/about">
-            <a
-              className={`text-base  ${
-                router.asPath === "/about"
-                  ? "text-gray-800 font-bold dark:text-gray-400"
-                  : "text-gray-600 dark:text-gray-300 font-normal "
-              }`}
-            >
-              About{" "}
-            </a>
-          </Link>
           <Link href="/work">
             <a
               className={`text-base  ${
@@ -65,19 +54,6 @@ export default function Navbar() {
               }`}
             >
               Projects
-            </a>
-          </Link>
-        </div>
-        <div className="space-x-4 block md:hidden mt-4">
-          <Link href="/about">
-            <a 
-              className={`text-base text-xs ${
-                router.asPath === "/about"
-                  ? "text-gray-800 font-bold dark:text-gray-400"
-                  : "text-gray-600 dark:text-gray-300 font-normal "
-              }`}
-            >
-              About
             </a>
           </Link>
         </div>

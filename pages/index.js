@@ -1,5 +1,6 @@
 import ContainerBlock from "../components/ContainerBlock";
 import Hero from "../components/Hero";
+import AboutMe from "../components/AboutMe";
 
 export default function Home({ repositories }) {
   return (
@@ -7,7 +8,7 @@ export default function Home({ repositories }) {
       title="Chris Bentzel"
       description="Chris Bentzel's home page."
     >
-      <Hero />
+      <AboutMe />
     </ContainerBlock>
   );
 }
