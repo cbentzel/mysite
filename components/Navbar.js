@@ -22,7 +22,7 @@ export default function Navbar() {
         <div className="flex flex-col">
           <Link href="/">
             <a>
-              <p className={`text-base  ${
+              <p className={`text-base text-xs ${
                 router.asPath === "/"
                   ? "text-gray-800 font-bold dark:text-gray-400"
                   : "text-gray-600 dark:text-gray-300 font-normal "
@@ -58,7 +58,7 @@ export default function Navbar() {
           </Link>
           <Link href="/projects">
             <a
-              className={`text-base  ${
+              className={`text-base ${
                 router.asPath === "/projects"
                   ? "text-gray-800 font-bold dark:text-gray-400"
                   : "text-gray-600 dark:text-gray-300 font-normal "
@@ -68,6 +68,45 @@ export default function Navbar() {
             </a>
           </Link>
         </div>
+        <div className="space-x-4 block md:hidden mt-4">
+          <Link href="/about">
+            <a 
+              className={`text-base text-xs ${
+                router.asPath === "/about"
+                  ? "text-gray-800 font-bold dark:text-gray-400"
+                  : "text-gray-600 dark:text-gray-300 font-normal "
+              }`}
+            >
+              About
+            </a>
+          </Link>
+        </div>
+        <div className="space-x-4 block md:hidden mt-4">
+          <Link href="/work">
+            <a
+              className={`text-base text-xs ${
+                router.asPath === "/work"
+                  ? "text-gray-800 font-bold dark:text-gray-400"
+                  : "text-gray-600 dark:text-gray-300 font-normal "
+              }`}
+            >
+              Work
+            </a>
+          </Link>
+        </div>
+        <div className="space-x-4 block md:hidden mt-4">
+        <Link href="/projects">
+          <a 
+            className={`text-base text-xs ${
+              router.asPath === "/projects"
+                ? "text-gray-800 font-bold dark:text-gray-400"
+                : "text-gray-600 dark:text-gray-300 font-normal "
+            }`}
+          >
+            Projects
+          </a>
+        </Link>
+      </div>
 
         <div className="space-x-4 flex flex-row items-center">
           <a
@@ -147,23 +186,6 @@ export default function Navbar() {
             )}
           </button>
         </div>
-      </div>
-      <div className="space-x-8 block md:hidden mt-4">
-        <Link href="/about">
-          <a className="text-base font-normal text-gray-600 dark:text-gray-300">
-            About
-          </a>
-        </Link>
-        <Link href="/projects">
-          <a className="text-base font-normal text-gray-600 dark:text-gray-300">
-            Projects
-          </a>
-        </Link>
-        <Link href="/contact">
-          <a className="text-base font-normal text-gray-600 dark:text-gray-300">
-            Contact
-          </a>
-        </Link>
       </div>
     </div>
   );
