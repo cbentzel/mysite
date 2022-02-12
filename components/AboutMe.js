@@ -1,42 +1,37 @@
 import React from "react";
 import userData from "@constants/data";
+import Image from "next/image";
 
 export default function AboutMe() {
   return (
     <section className="bg-white dark:bg-gray-800">
-      <div className="flex flex-row items-start overflow-hidden bg-[#F1F1F1] dark:bg-gray-900">
+      <div className="flex flex-row self-stretch items-center overflow-hidden bg-[#F1F1F1] dark:bg-gray-900 gap-8">
         {/* Text container */}
-        <div className="w-1/2 mx-auto text-right lg:p-20">
-          <p className="h-32">
-          </p>
-          <p className="font-sans text-xl">
-            Hi - I'm Chris Bentzel!
-          </p>
-          <p className="h-16">
-          </p>
-          <p className="font-sans text-xl">
-            I enjoy building great products, as well as the teams that build those products.
-          </p>
-          <p className="h-16">
-          </p>
-          <p className="font-sans text-xl">
-            In my personal life, I spend time with my family, exercising outdoors, reading, and working on hobby projects.
-          </p>
-          <p className="h-16">
-          </p>
-          <p className="font-sans text-xl">
-            I hope you experience something which makes you smile today.
-          </p>
+        <div className="w-1/2 flex flex-col mx-auto justify-evenly text-right text-lg">
+          <div className="">
+            <p>
+              Hi - I'm Chris Bentzel!
+            </p>
+          </div>
+          <div className="">
+            <p>
+              I enjoy building great products, as well as the teams that build those products.
+            </p>
+          </div>
+          <div className="">
+            <p>
+              In my personal life, I spend time with my family, exercising outdoors, reading, and working on hobby projects.
+            </p>
+          </div>
+          <div className="">
+            <p>
+              I hope you experience something which makes you smile today.
+            </p>
+          </div>
         </div>
         {/* Image container */}
-        <div className="lg:block relative w-1/2 -mr-40 mt-20">
-          <div className="w-3/4 ">
-            <img src={userData.avatarUrl} alt="avatar" className=" shadow" />
-            <div className="flex flex-row justify-between mt-4">
-              <div className="flex flex-row space-x-4">
-              </div>
-            </div>
-          </div>
+        <div className="lg:block relative w-1/2">
+            <Image src={userData.avatarUrl} alt="avatar" width="1944" height="1726" placeholder="blur" className="shadow" />
         </div>
       </div>
     </section>
