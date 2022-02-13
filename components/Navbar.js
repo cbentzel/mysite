@@ -16,7 +16,7 @@ export default function Navbar() {
 
   return (
     <div className="max-w-6xl mx-auto px-4 py-10 md:py-10">
-      <div className="flex  md:flex-row justify-between items-center">
+      <div className="flex md:flex-row justify-between items-center">
         {/* Logo / Home / Text */}
 
         <div className="flex flex-col">
@@ -57,10 +57,10 @@ export default function Navbar() {
             </a>
           </Link>
         </div>
-        <div className="space-x-4 block md:hidden mt-4">
+        <div className="space-x-4 block md:hidden">
           <Link href="/work">
             <a
-              className={`text-base text-xs ${
+              className={`text-base ${
                 router.asPath === "/work"
                   ? "text-gray-800 font-bold dark:text-gray-400"
                   : "text-gray-600 dark:text-gray-300 font-normal "
@@ -69,19 +69,17 @@ export default function Navbar() {
               Work
             </a>
           </Link>
-        </div>
-        <div className="space-x-4 block md:hidden mt-4">
-        <Link href="/projects">
-          <a 
-            className={`text-base text-xs ${
-              router.asPath === "/projects"
-                ? "text-gray-800 font-bold dark:text-gray-400"
-                : "text-gray-600 dark:text-gray-300 font-normal "
-            }`}
-          >
-            Projects
-          </a>
-        </Link>
+          <Link href="/projects">
+            <a 
+              className={`text-base ${
+                router.asPath === "/projects"
+                  ? "text-gray-800 font-bold dark:text-gray-400"
+                  : "text-gray-600 dark:text-gray-300 font-normal "
+              }`}
+            >
+              Projects
+            </a>
+          </Link>
       </div>
 
         <div className="space-x-4 flex flex-row items-center">
