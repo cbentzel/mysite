@@ -24,9 +24,9 @@ const ProjectCard = ({ title, link, imgUrl, description }) => {
   return (
     <div>
       <div className="flex gap-16">
-        <a href={link} className="w-2/5 block shadow-2xl">
+        <a href={link} className="w-2/5 block md:shadow-2xl">
           <div className="relative overflow-hidden">
-            <div className="h-72 object-cover">
+            <div className="object-contain">
               <img
                 src={imgUrl}
                 alt="portfolio"
@@ -35,7 +35,7 @@ const ProjectCard = ({ title, link, imgUrl, description }) => {
             </div>
           </div>
         </a>
-        <div className="w-3/5 block text-xl font-serif font-light text-gray-700 dark:text-gray-300">
+        <div className="w-3/5 block text-sm md:text-lg font-serif font-light text-gray-700 dark:text-gray-300">
           {description}
         </div>
       </div>
@@ -43,7 +43,7 @@ const ProjectCard = ({ title, link, imgUrl, description }) => {
 
       </div>
       <div className="flex gap-16">
-        <div className="w-2/5 block text-xl h-16 text-center text-gray-700 dark:text-gray-300">
+        <div className="w-2/5 block text-sm md:text-xl h-16 text-center text-gray-700 dark:text-gray-300">
           {title}
         </div>
         <div className="w-3/5"></div>
