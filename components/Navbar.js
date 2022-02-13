@@ -22,7 +22,7 @@ export default function Navbar() {
         <div className="flex flex-col">
           <Link href="/">
             <a>
-              <p className={`text-base ${
+              <p className={`text-sm md:text-base ${
                 router.asPath === "/"
                   ? "text-gray-800 font-bold dark:text-gray-400"
                   : "text-gray-600 dark:text-gray-300 font-normal "
@@ -60,7 +60,7 @@ export default function Navbar() {
         <div className="space-x-4 block md:hidden">
           <Link href="/work">
             <a
-              className={`text-base ${
+              className={`text-sm ${
                 router.asPath === "/work"
                   ? "text-gray-800 font-bold dark:text-gray-400"
                   : "text-gray-600 dark:text-gray-300 font-normal "
@@ -71,7 +71,7 @@ export default function Navbar() {
           </Link>
           <Link href="/projects">
             <a 
-              className={`text-base ${
+              className={`text-sm ${
                 router.asPath === "/projects"
                   ? "text-gray-800 font-bold dark:text-gray-400"
                   : "text-gray-600 dark:text-gray-300 font-normal "
