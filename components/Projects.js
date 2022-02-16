@@ -26,7 +26,7 @@ const ProjectCard = ({ title, link, imgUrl, description }) => {
       <div className="flex gap-16">
         <a href={link} className="w-2/5 block md:shadow-2xl">
           <div className="relative overflow-hidden">
-            <div className="object-contain">
+            <div className="h-72 object-cover">
               <img
                 src={imgUrl}
                 alt="portfolio"
