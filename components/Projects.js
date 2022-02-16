@@ -5,7 +5,7 @@ export default function Projects(props) {
     <section className="">
       {/* Grid starts here */}
       <div className="">
-        <div className="max-w-6xl mx-auto grid grid-cols-1 md:grid-cols-1 gap-8 py-8 pb-40">
+        <div className="max-w-6xl mx-auto grid grid-cols-1 md:grid-cols-1 gap-8 md:gap-16 py-8 pb-40">
           {props.projectMap.map((proj, idx) => (
             <ProjectCard
               title={proj.title}
