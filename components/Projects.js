@@ -2,9 +2,9 @@ import React from "react";
 
 export default function Projects(props) {
   return (
-    <section className="bg-white dark:bg-gray-800">
+    <section className="">
       {/* Grid starts here */}
-      <div className="bg-[#F1F1F1] dark:bg-gray-900">
+      <div className="">
         <div className="max-w-6xl mx-auto grid grid-cols-1 md:grid-cols-1 gap-8 py-20 pb-40">
           {props.projectMap.map((proj, idx) => (
             <ProjectCard
