@@ -5,7 +5,7 @@ export default function Projects(props) {
     <section className="">
       {/* Grid starts here */}
       <div className="">
-        <div className="max-w-6xl mx-auto grid grid-cols-1 md:grid-cols-1 gap-8 py-20 pb-40">
+        <div className="max-w-6xl mx-auto grid grid-cols-1 md:grid-cols-1 gap-8 py-8 pb-40">
           {props.projectMap.map((proj, idx) => (
             <ProjectCard
               title={proj.title}
@@ -23,10 +23,13 @@ export default function Projects(props) {
 const ProjectCard = ({ title, link, imgUrl, description }) => {
   return (
     <div>
-      <div className="flex gap-16">
-        <a href={link} className="w-2/5 block md:shadow-2xl">
+      <div className="flex flex-col gap-4 px-8 items-center">
+          <div className="w-full block text-2xl md:text-3xl lg:text-4xl text-center text-gray-700 dark:text-gray-300">
+            {title}
+          </div>
+        <a href={link} className="w-full block shadow-xl md:shadow-2xl">
           <div className="relative overflow-hidden">
-            <div className="h-72 object-cover">
+            <div className="object-cover">
               <img
                 src={imgUrl}
                 alt="portfolio"
@@ -35,18 +38,12 @@ const ProjectCard = ({ title, link, imgUrl, description }) => {
             </div>
           </div>
         </a>
-        <div className="w-3/5 block text-sm md:text-lg font-serif font-light text-gray-700 dark:text-gray-300 pr-8">
+        <div className="w-full block text-sm md:text-lg font-serif font-light text-gray-700 dark:text-gray-300 pr-8">
           {description}
         </div>
       </div>
       <div className="h-4">
 
-      </div>
-      <div className="flex gap-16">
-        <div className="w-2/5 block text-sm md:text-xl h-16 text-center text-gray-700 dark:text-gray-300">
-          {title}
-        </div>
-        <div className="w-3/5"></div>
       </div>
     </div>
   );
