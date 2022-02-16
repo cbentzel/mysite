@@ -5,7 +5,7 @@ export default function Projects(props) {
     <section className="">
       {/* Grid starts here */}
       <div className="">
-        <div className="max-w-6xl mx-auto grid grid-cols-1 md:grid-cols-1 gap-8 md:gap-16 py-8 pb-40">
+        <div className="max-w-6xl mx-auto grid grid-cols-1 md:grid-cols-1 py-8 divide-y-4 divide-blue-400">
           {props.projectMap.map((proj, idx) => (
             <ProjectCard
               title={proj.title}
@@ -23,7 +23,7 @@ export default function Projects(props) {
 const ProjectCard = ({ title, link, imgUrl, description }) => {
   return (
     <div>
-      <div className="flex flex-col gap-4 px-8 items-center">
+      <div className="flex flex-col gap-4 px-8 py-8 items-center">
           <div className="w-full block text-2xl md:text-3xl lg:text-4xl text-center text-gray-700 dark:text-gray-300">
             {title}
           </div>
@@ -38,12 +38,9 @@ const ProjectCard = ({ title, link, imgUrl, description }) => {
             </div>
           </div>
         </a>
-        <div className="w-full block text-sm md:text-lg font-serif font-light text-gray-700 dark:text-gray-300 pr-8">
+        <div className="w-full block text-sm md:text-lg lg:text-xl pb-2 pt-8 font-light text-gray-700 dark:text-gray-300">
           {description}
         </div>
-      </div>
-      <div className="h-4">
-
       </div>
     </div>
   );
