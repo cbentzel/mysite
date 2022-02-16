@@ -43,7 +43,7 @@ export default function ContainerBlock({ children, ...customMeta }) {
       </Head>
       <main className="w-full">
         <Navbar />
-        <div className="h-screen bg-[#F1F1F1] dark:bg-gray-900">{children}</div>
+        <div className="min-h-screen bg-[#F1F1F1] dark:bg-gray-900">{children}</div>
       </main>
     </div>
   );
