@@ -38,7 +38,7 @@ const ProjectCard = ({ title, link, imgUrl, description }) => {
             </div>
           </div>
         </a>
-        <div className="w-full block text-sm md:text-lg lg:text-xl pb-2 pt-8 font-light text-gray-700 dark:text-gray-300">
+        <div className="w-full block text-sm md:text-lg lg:text-xl pb-2 pt-6 font-light text-gray-700 dark:text-gray-300">
           {description}
         </div>
       </div>
