@@ -7,26 +7,18 @@ export default function AboutMe() {
     <section className="bg-white dark:bg-gray-800">
       <div className="flex flex-row self-stretch items-center overflow-hidden bg-[#F1F1F1] dark:bg-gray-900 gap-8">
         {/* Text container */}
-        <div className="w-1/2 flex flex-col mx-auto justify-evenly text-right text-xs sm:text-sm md:text-lg">
+        <div className="w-1/2 flex flex-col mx-auto justify-evenly text-left pl-4 text-xs sm:text-sm space-y-4 md:text-lg lg:text-xl">
           <div className="">
-            <p>
-              Hi - I'm Chris Bentzel!
-            </p>
+            Hi - I'm Chris Bentzel!
           </div>
           <div className="">
-            <p>
-              I enjoy building great products, as well as the teams that build those products.
-            </p>
+            I enjoy building great products, as well as the teams that build those products.
           </div>
           <div className="">
-            <p>
-              In my personal life, I spend time with my family, exercising outdoors, reading, and working on hobby projects.
-            </p>
+            In my personal life, I spend time with my family, exercise outdoors, read, and work on hobby projects.
           </div>
           <div className="">
-            <p>
-              I hope you experience something which makes you smile today.
-            </p>
+            I hope you experience something which makes you smile today.
           </div>
         </div>
         {/* Image container */}
