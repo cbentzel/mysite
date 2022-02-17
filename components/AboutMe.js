@@ -4,10 +4,10 @@ import Image from "next/image";
 
 export default function AboutMe() {
   return (
-    <section className="">
-      <div className="flex flex-col self-stretch items-center overflow-hidden gap-8">
+    <section className="grid justify-items-center">
+      <div className="max-w-2xl overflow-hidden gap-8">
         {/* Text container */}
-        <div className="w-full flex flex-col mx-auto justify-evenly text-center pt-4 px-4 text-xs sm:text-sm space-y-4 md:text-lg lg:text-xl">
+        <div className="mx-auto justify-evenly text-center pt-4 px-4 text-xs sm:text-sm space-y-4 md:text-lg lg:text-xl">
           <div className="">
             Hi - I'm Chris Bentzel!
           </div>
@@ -22,7 +22,7 @@ export default function AboutMe() {
           </div>
         </div>
         {/* Image container */}
-        <div className="lg:block relative w-3/4 lg:w-1/2">
+        <div className="lg:block relative mt-6">
             <Image src={userData.avatarUrl} alt="avatar" width="1944" height="1726" placeholder="blur" className="shadow" />
         </div>
       </div>
