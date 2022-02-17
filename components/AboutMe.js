@@ -4,7 +4,7 @@ import Image from "next/image";
 
 export default function AboutMe() {
   return (
-    <section className="grid justify-items-center">
+    <section className="grid justify-items-center py-8">
       <div className="max-w-2xl overflow-hidden gap-8">
         {/* Text container */}
         <div className="mx-auto justify-evenly text-center pt-4 px-4 text-xs sm:text-sm space-y-4 md:text-lg lg:text-xl">
