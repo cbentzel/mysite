@@ -23,7 +23,7 @@ export default function AboutMe() {
         </div>
         {/* Image container */}
         <div className="lg:block relative mt-6">
-            <Image src={userData.avatarUrl} alt="avatar" width="1944" height="1726" placeholder="blur" className="shadow" />
+            <Image src={userData.avatarUrl} alt="avatar" width="1944" height="1726" className="shadow" />
         </div>
       </div>
     </section>
