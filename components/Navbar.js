@@ -25,8 +25,8 @@ export default function Navbar() {
               <a>
                 <p className={`text-sm md:text-base ${
                   router.asPath === "/"
-                    ? "text-gray-800 font-bold dark:text-gray-400"
-                    : "text-gray-600 dark:text-gray-300 font-normal "
+                    ? "text-gray-800 font-bold dark:text-gray-100"
+                    : "text-gray-600 dark:text-gray-400 font-normal "
                 }`}>
                   {userData.name}
                 </p>
@@ -39,8 +39,8 @@ export default function Navbar() {
               <a
                 className={`text-base  ${
                   router.asPath === "/work"
-                    ? "text-gray-800 font-bold dark:text-gray-400"
-                    : "text-gray-600 dark:text-gray-300 font-normal "
+                    ? "text-gray-800 font-bold dark:text-gray-100"
+                    : "text-gray-600 dark:text-gray-400 font-normal "
                 }`}
               >
                 Work
@@ -50,8 +50,8 @@ export default function Navbar() {
               <a
                 className={`text-base ${
                   router.asPath === "/projects"
-                    ? "text-gray-800 font-bold dark:text-gray-400"
-                    : "text-gray-600 dark:text-gray-300 font-normal "
+                    ? "text-gray-800 font-bold dark:text-gray-100"
+                    : "text-gray-600 dark:text-gray-400 font-normal "
                 }`}
               >
                 Projects
@@ -63,8 +63,8 @@ export default function Navbar() {
               <a
                 className={`text-sm ${
                   router.asPath === "/work"
-                    ? "text-gray-800 font-bold dark:text-gray-400"
-                    : "text-gray-600 dark:text-gray-300 font-normal "
+                    ? "text-gray-800 font-bold dark:text-gray-100"
+                    : "text-gray-600 dark:text-gray-400 font-normal "
                 }`}
               >
                 Work
@@ -74,8 +74,8 @@ export default function Navbar() {
               <a 
                 className={`text-sm ${
                   router.asPath === "/projects"
-                    ? "text-gray-800 font-bold dark:text-gray-400"
-                    : "text-gray-600 dark:text-gray-300 font-normal "
+                    ? "text-gray-800 font-bold dark:text-gray-100"
+                    : "text-gray-600 dark:text-gray-400 font-normal "
                 }`}
               >
                 Projects
