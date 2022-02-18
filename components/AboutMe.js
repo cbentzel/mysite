@@ -7,12 +7,12 @@ export default function AboutMe() {
     <section className="grid justify-items-center py-8">
       <div className="max-w-2xl overflow-hidden gap-8">
         {/* Text container */}
-        <div className="mx-auto justify-evenly text-center pt-4 px-4 text-xs sm:text-sm space-y-4 md:text-lg lg:text-xl">
+        <div className="mx-auto justify-evenly text-left pt-4 px-8 text-xs sm:text-sm space-y-4 md:text-lg lg:text-xl">
           <div className="">
-            Hi - I'm Chris Bentzel!
+            Hi - I'm Chris Bentzel! But you likely already know that if you are visiting this site.
           </div>
           <div className="">
-            I enjoy building great products, as well as the teams that build those products.
+            I enjoy building great products, as well as building the teams that build those products. You can read more in the "Work" section. 
           </div>
           <div className="">
             In my personal life, I spend time with my family, exercise outdoors, read, and work on hobby projects.
