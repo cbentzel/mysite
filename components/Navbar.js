@@ -15,7 +15,7 @@ export default function Navbar() {
   }, []);
 
   return (
-    <div className="w-full mx-auto px-2 sm:px-4 py-4 bg-white dark:bg-gray-800">
+    <div className="w-full mx-auto px-2 sm:px-4 py-4 bg-white dark:bg-gray-800 sticky top-0 z-50">
       <div className="max-w-6xl mx-auto">
         <div className="flex md:flex-row justify-between items-center">
           {/* Logo / Home / Text */}
