@@ -19,22 +19,25 @@ export default function Navbar() {
       <div className="max-w-6xl mx-auto">
         <div className="flex md:flex-row justify-between items-center">
           {/* Logo / Home / Text */}
+    
+          <div className="">
+            <img src="/large_logo.png" width="32" height="32">
 
-          <div className="flex flex-col">
+            </img>
+          </div>
+          
+          <div className="space-x-8 hidden md:block">
             <Link href="/">
-              <a>
-                <p className={`text-sm md:text-base ${
+              <a
+                className={`text-base  ${
                   router.asPath === "/"
                     ? "text-gray-800 font-bold dark:text-gray-100"
                     : "text-gray-600 dark:text-gray-400 font-normal "
-                }`}>
-                  {userData.name}
-                </p>
+                }`}
+              >
+                About
               </a>
             </Link>
-          </div>
-
-          <div className="space-x-8 hidden md:block">
             <Link href="/work">
               <a
                 className={`text-base  ${
@@ -59,6 +62,17 @@ export default function Navbar() {
             </Link>
           </div>
           <div className="space-x-4 block md:hidden">
+            <Link href="/">
+              <a
+                className={`text-sm ${
+                  router.asPath === "/"
+                    ? "text-gray-800 font-bold dark:text-gray-100"
+                    : "text-gray-600 dark:text-gray-400 font-normal "
+                }`}
+              >
+                About
+              </a>
+            </Link>
             <Link href="/work">
               <a
                 className={`text-sm ${
