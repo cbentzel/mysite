@@ -7,7 +7,7 @@ export default function AboutMe() {
     <section className="grid justify-items-center py-8">
       <div className="max-w-2xl overflow-hidden gap-8">
         {/* Text container */}
-        <div className="mx-auto justify-evenly text-left pt-4 px-8 text-xs sm:text-sm space-y-4 md:text-lg lg:text-xl">
+        <div className="mx-auto justify-evenly text-left pt-4 px-8 text-sm md:text-lg lg:text-xl space-y-4 font-light">
           <div className="">
             Hi - I'm Chris Bentzel! But you likely already know that if you are visiting this site.
           </div>
