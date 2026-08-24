@@ -5,7 +5,6 @@ export default function PastWork({ work, projects }) {
     <article className="tufte-article">
       <h1 className="title">Work</h1>
 
-      <h2>Roles</h2>
       {work.map((entry, idx) => (
         <WorkEntry key={entry.title} entry={entry} last={idx === work.length - 1} />
       ))}
