@@ -28,7 +28,7 @@ export default function Navbar() {
       <div className="tufte-container">
         <div className="flex flex-row justify-between items-center py-4 gap-4">
           <Link href="/">
-            <a className="caps text-lg tracking-wide whitespace-nowrap">
+            <a className="caps text-sm md:text-lg tracking-wide whitespace-nowrap">
               {userData.name}
             </a>
           </Link>
