@@ -1,6 +1,5 @@
 import React from "react";
 import userData from "@constants/data";
-import Image from "next/image";
 
 export default function AboutMe() {
   return (
@@ -11,12 +10,7 @@ export default function AboutMe() {
       </p>
 
       <figure className="marginfigure">
-        <Image
-          src={userData.avatarUrl}
-          alt="avatar"
-          width="1481"
-          height="1302"
-        />
+        <img src={userData.avatarUrl} alt="avatar" />
       </figure>
 
       <p>Hi &mdash; I&apos;m Chris Bentzel!</p>
