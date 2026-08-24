@@ -217,6 +217,29 @@
   margin-top: 0.3rem;
 }
 
+.tufte .work-entry {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+}
+
+.tufte figure.marginfigure.work-entry-figure {
+  float: none;
+  clear: none;
+  width: 40%;
+  margin: 0;
+  flex: 0 0 40%;
+}
+
+.tufte .work-entry-content {
+  flex: 1;
+  min-width: 0;
+}
+
+.tufte .work-entry-content h3 {
+  margin-top: 0;
+}
+
 /* Narrow screens: sidenotes become tap-to-reveal footnotes ----------- */
 
 @media (max-width: 1100px) {
@@ -250,6 +273,19 @@
   .tufte figure.marginfigure {
     float: none;
     clear: both;
+    width: 60%;
+    max-width: 260px;
+    margin: 0.75rem auto;
+  }
+
+  .tufte .work-entry {
+    flex-direction: column;
+    align-items: center;
+    gap: 0;
+  }
+
+  .tufte figure.marginfigure.work-entry-figure {
+    flex: 0 0 auto;
     width: 60%;
     max-width: 260px;
     margin: 0.75rem auto;
