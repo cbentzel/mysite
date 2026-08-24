@@ -23,7 +23,7 @@ export default function AboutMe() {
       <p>
         I enjoy building great products, as well as building the teams that
         build those products. You can read more in the{" "}
-        <a href="/work">Professional Work</a> section.
+        <a href="/work">Work</a> section.
       </p>
       <p>
         In my personal life, I spend time with my family, exercise outdoors,

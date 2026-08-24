@@ -7,7 +7,7 @@ import userData from "@constants/data";
 const navLinks = [
   { href: "/", label: "About" },
   { href: "/posts", label: "Posts" },
-  { href: "/work", label: "Professional Work" },
+  { href: "/work", label: "Work" },
   { href: "/demos", label: "Demos" },
 ];
 

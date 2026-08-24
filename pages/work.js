@@ -5,7 +5,7 @@ import PastWork from "../components/PastWork";
 
 export default function work() {
   return (
-    <ContainerBlock title="Professional Work">
+    <ContainerBlock title="Work">
       <PastWork work={userData.work} projects={userData.projects} />
     </ContainerBlock>
   );
