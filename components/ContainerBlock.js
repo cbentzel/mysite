@@ -41,9 +41,9 @@ export default function ContainerBlock({ children, ...customMeta }) {
           <meta property="article:published_time" content={meta.date} />
         )}
       </Head>
-      <main className="w-full">
+      <main className="w-full tufte tufte-body min-h-screen">
         <Navbar />
-        <div className="min-h-screen bg-[#F1F1F1] dark:bg-gray-900">{children}</div>
+        <div className="tufte-container py-12">{children}</div>
       </main>
     </div>
   );

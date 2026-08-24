@@ -1,12 +1,12 @@
 import userData from "@constants/data";
 import React from "react";
 import ContainerBlock from "../components/ContainerBlock";
-import Projects from "../components/Projects";
+import PastWork from "../components/PastWork";
 
-export default function projects() {
+export default function work() {
   return (
-    <ContainerBlock title="Work">
-      <Projects sectionName="Work" projectMap={userData.work}/>
+    <ContainerBlock title="Past Work">
+      <PastWork work={userData.work} projects={userData.projects} />
     </ContainerBlock>
   );
 }

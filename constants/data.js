@@ -7,6 +7,12 @@ const userData = {
   address: "Quincy, Massachusetts.",
   work: [
     {
+      title: "Head of Atlas Software",
+      link: "https://bostondynamics.com/atlas/",
+      imgUrl: "/atlas.jpg",
+      description: "Brought Atlas from a research platform to a product. Scope includes Systems Software, Applications Software, Simulation and Test Infrastructure, SQA, and Data Operations."
+    },
+    {
       title: "Spot",
       link: "https://bostondynamics.com/products/spot",
       imgUrl: "/spot.jpg",
