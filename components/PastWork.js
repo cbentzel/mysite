@@ -3,7 +3,7 @@ import React from "react";
 export default function PastWork({ work, projects }) {
   return (
     <article className="tufte-article">
-      <h1 className="title">Professional Work</h1>
+      <h1 className="title">Work</h1>
 
       <h2>Roles</h2>
       {work.map((entry, idx) => (
