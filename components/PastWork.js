@@ -3,7 +3,7 @@ import React from "react";
 export default function PastWork({ work, projects }) {
   return (
     <article className="tufte-article">
-      <h1 className="title">Past Work</h1>
+      <h1 className="title">Professional Work</h1>
       <p className="subtitle">Professional roles and personal projects.</p>
 
       <h2>Professional Roles</h2>
