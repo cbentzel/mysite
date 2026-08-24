@@ -229,11 +229,13 @@
   width: 40%;
   margin: 0;
   flex: 0 0 40%;
+  order: 2;
 }
 
 .tufte .work-entry-content {
   flex: 1;
   min-width: 0;
+  order: 1;
 }
 
 .tufte .work-entry-content h3 {
@@ -289,6 +291,11 @@
     width: 60%;
     max-width: 260px;
     margin: 0.75rem auto;
+    order: 0;
+  }
+
+  .tufte .work-entry-content {
+    order: 0;
   }
 
   .tufte label.margin-toggle-label {
