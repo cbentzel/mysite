@@ -4,8 +4,6 @@ date: "2026-09-06"
 excerpt: "Remote Persistent Development with Macbook head and Linux server."
 ---
 
-# Remote Connection
-
 This page documents my setup for working primarily from a MacBook as a simple terminal, with a 
 Linux dev environment (desktop, VM, etc) as the "real" workhorse. 
 
