@@ -236,8 +236,7 @@ To exercise the reconnect path end-to-end:
 
 - **Agent forwarding has security implications.** Anyone with root on the dev desktop can use
   your forwarded agent for the duration of the connection — they can SSH to any robot you have
-  a cert for. For BDI internal dev hosts this is generally accepted; be aware before enabling
-  it elsewhere.
+  a cert for.
 - **Cert expiry.** Robot SSH certificates intentionally expire. If `ssh
 some-robot` suddenly fails with a permission error, refresh the cert on the MacBook. The
   forwarded agent will pick up the new cert on the next reconnect — kill the current SSH from
