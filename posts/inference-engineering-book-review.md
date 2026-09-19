@@ -6,16 +6,15 @@ excerpt: "A look at Philip Kiely's book on the stack that turns trained models i
 
 ## Background
 
+<figure class="marginfigure">
+  <img src="/inference-engineering-cover.png" alt="Cover of Inference Engineering by Philip Kiely" />
+</figure>
+
 Low-latency edge and datacenter inference is extremely important for robotics. Edge in this case also includes on-robot compute, not just a smaller, edge-deployed HGX rack.
 
 I've been looking for good material to hand seasoned systems and/or performance engineers to quickly understand the landscape of model inference.
 
 That led me to [*Inference Engineering*](https://www.baseten.co/inference-engineering/) by Philip Kiely.
-
-<figure class="marginfigure">
-  <img src="/inference-engineering-cover.png" alt="Cover of Inference Engineering by Philip Kiely" />
-  <figcaption><a href="https://www.baseten.co/inference-engineering/">Inference Engineering</a> cover, mirrored locally.</figcaption>
-</figure>
 
 I first heard him on the [Latent Space podcast](https://www.latent.space/p/inference-eng), which mentioned the book alongside the rest of the conversation.
 
