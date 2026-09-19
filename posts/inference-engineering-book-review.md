@@ -12,6 +12,11 @@ I've been looking for good material to hand seasoned systems and/or performance 
 
 That led me to [*Inference Engineering*](https://www.baseten.co/inference-engineering/) by Philip Kiely.
 
+<figure class="marginfigure">
+  <img src="/inference-engineering-cover.png" alt="Cover of Inference Engineering by Philip Kiely" />
+  <figcaption><a href="https://www.baseten.co/inference-engineering/">Inference Engineering</a> cover, mirrored locally.</figcaption>
+</figure>
+
 I first heard him on the [Latent Space podcast](https://www.latent.space/p/inference-eng), which mentioned the book alongside the rest of the conversation.
 
 The book is available as a free PDF and ePUB download, so the entry fee to reading was low.
