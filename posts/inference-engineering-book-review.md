@@ -8,7 +8,7 @@ excerpt: "A look at Philip Kiely's book on the stack that turns trained models i
 
 Low-latency edge and datacenter inference is extremely important for robotics. Edge in this case also includes on-robot, not just an HGX rack.
 
-I've been looking for good material to hand seasoned system and/or performnance engineers to quickly understand the landscape of model inference.
+I've been looking for good material to hand seasoned system and/or performance engineers to quickly understand the landscape of model inference.
 
 That led me to [*Inference Engineering*](https://www.baseten.co/inference-engineering/) by Philip Kiely.
 
