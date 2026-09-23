@@ -27,20 +27,33 @@ For a state carved out of an existing state, three approvals are needed:
 2. **Both chambers of Congress**, passing the admission bill.
 3. **The President**, by signing it.
 
-If the President vetoes the bill, two-thirds of each chamber of Congress can override it.
+Article IV's own text names only the first two — the state legislature and Congress. The
+President's role isn't from Article IV at all; it's there because admission is accomplished
+through ordinary legislation, which means it goes through the normal Article I, Section 7
+presentment process like any other bill. If the President vetoes it, two-thirds of each chamber of
+Congress can override.
 
-Once admitted, a state is on **equal footing** with every other state (*Coyle v. Smith*, 1911).
-Critically, that equal footing includes the same baseline representation as every other state, regardless of population:
+Once admitted, a state has the same constitutional status as every other state (*Coyle v. Smith*,
+1911) — Congress can't attach permanent second-class conditions to it. And the Constitution's own
+text gives every state, new or old, the same baseline representation regardless of population:
 
-- **Two Senators**, guaranteed by Article I, Section 3, and further locked in by Article V, which
-  singles out equal Senate suffrage as one of only two provisions the Constitution says cannot be
-  amended away from a state without that state's own consent.
-- **At least one House member**, guaranteed by Article I, Section 2, no matter how small the
-  population is relative to the size of an average House district.
-- **Electoral votes** guaranteed by Article II, Section 1. The electoral votes are equal to House seats plus Senate seats.
-  This means a minimum of three votes, regardless of how small the state is.
+- **Two Senators**, guaranteed by Article I, Section 3, and further locked in by Article V, one of
+  the Constitution's two original express limits on the amendment power. (The other — barring any
+  change to the slave-trade and capitation-tax clauses before 1808 — expired that year, as
+  designed.) Equal Senate suffrage is the one still standing, and it can't be amended away from a
+  state without that state's own consent.
+- **At least one Representative**, guaranteed by Article I, Section 2, regardless of population.
+- **Electoral votes** guaranteed by Article II, Section 1: House seats plus Senate seats, so a
+  minimum of three regardless of how small the state is.
 
-Does the Constitution say anything about other requirements for a state? The primary requirement is the *Guarantee Clause* in Article IV, Section 4, which says that a State must have a Republican form of Government, as opposed to a kingdom or dictatorship. There is no minimum physical size threshold, and current states have a 400x range in size with Rhode Island at the low end and Alaska at the high end. There is no minimum population size threshold, and current states have a 67x range with Wyoming at the low end and California at the high end. 
+Does the Constitution say anything else about what a state needs to look like? Article IV gives
+Congress broad discretion over admission. The one textual guardrail is the *Guarantee Clause* in
+Article IV, Section 4, which requires a "Republican Form of Government" — though courts have
+generally left it to Congress to judge what that means, rather than enforcing it as a checklist.
+Beyond that, there is no minimum physical size threshold — current states span a roughly 400x range
+by total area, from Rhode Island at the low end to Alaska at the high end — and no minimum
+population threshold, where the range is about 67x (per 2025 Census Bureau estimates), from Wyoming
+to California.
 
 So historically, how small could a state actually get?
 
