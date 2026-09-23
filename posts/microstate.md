@@ -25,40 +25,24 @@ For a state carved out of an existing state, three approvals are needed:
 
 1. **The legislature(s) of the state(s) being carved up.**
 2. **Both chambers of Congress**, passing the admission bill.
-3. **The President**, by signing it — or, if vetoed, two-thirds of each chamber overriding that
-   veto.
+3. **The President**, by signing it.
 
-One further constraint on what a new state can look like is the **Guarantee Clause** (Article IV,
-Section 4): "The United States shall guarantee to every State in this Union a Republican Form of
-Government." In
-*Luther v. Borden* (1849), the Supreme Court held that Guarantee Clause questions are a **political
-question**, not a judicial one — courts won't referee what counts as sufficiently "republican." So
-the primary backstop against a new state Congress doesn't want is Congress declining to admit it,
-not a court striking it down.
+If the President vetoes the bill, two-thirds of each chamber of Congress can override it.
 
-Once admitted, a state is on **equal footing** with every other state (*Coyle v. Smith*, 1911) —
-Congress can't attach permanent second-class conditions to it. Critically, that equal footing
-includes the same baseline representation as every other state, regardless of population:
+Once admitted, a state is on **equal footing** with every other state (*Coyle v. Smith*, 1911).
+Critically, that equal footing includes the same baseline representation as every other state, regardless of population:
 
 - **Two Senators**, guaranteed by Article I, Section 3, and further locked in by Article V, which
   singles out equal Senate suffrage as one of only two provisions the Constitution says cannot be
   amended away from a state without that state's own consent.
 - **At least one House member**, guaranteed by Article I, Section 2, no matter how small the
   population is relative to the size of an average House district.
-- **Electoral votes** equal to House seats plus Senate seats — so a floor of three that, like the
-  House minimum above it, doesn't shrink for a tiny population, even though the total above that
-  floor does track population.
+- **Electoral votes** guaranteed by Article II, Section 1. The electoral votes are equal to House seats plus Senate seats.
+  This means a minimum of three votes, regardless of how small the state is.
 
-Does the Constitution say anything about other requirements for a state, such as size or
-population? No — no population threshold, no minimum land area, no requirement that the new state
-be economically viable or geographically sensible. And the range that already exists among the
-fifty
-states is enormous — by population, from Wyoming's roughly 589,000 people to California's roughly
-39.4 million, a 67-fold gap; by land area, from Rhode Island's roughly 1,500 square miles to
-Alaska's roughly 665,000, a gap of more than 400-fold. Nothing in the text says that range has to
-stop where it currently sits.
+Does the Constitution say anything about other requirements for a state? The primary requirement is the *Guarantee Clause* in Article IV, Section 4, which says that a State must have a Republican form of Government, as opposed to a kingdom or dictatorship. There is no minimum physical size threshold, and current states have a 400x range in size with Rhode Island at the low end and Alaska at the high end. There is no minimum population size threshold, and current states have a 67x range with Wyoming at the low end and California at the high end. 
 
-So how small could a state actually get?
+So historically, how small could a state actually get?
 
 ## The Practical Floor Has Always Been Political, Not Legal
 
