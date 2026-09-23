@@ -27,8 +27,8 @@ For a state carved out of an existing state, three approvals are needed:
 2. **Both chambers of Congress**, passing the admission bill.
 3. **The President**, by signing it.
 
-Article IV's own text names only the first two — the state legislature and Congress. The
-President's role isn't from Article IV at all; it's there because admission is accomplished
+Article IV's own text names only the first two. The
+President's role is there because admission is accomplished
 through ordinary legislation, which means it goes through the normal Article I, Section 7
 presentment process like any other bill. If the President vetoes it, two-thirds of each chamber of
 Congress can override.
@@ -50,12 +50,10 @@ Does the Constitution say anything else about what a state needs to look like? A
 Congress broad discretion over admission. The one textual guardrail is the *Guarantee Clause* in
 Article IV, Section 4, which requires a "Republican Form of Government" — though courts have
 generally left it to Congress to judge what that means, rather than enforcing it as a checklist.
-Beyond that, there is no minimum physical size threshold — current states span a roughly 400x range
-by total area, from Rhode Island at the low end to Alaska at the high end — and no minimum
-population threshold, where the range is about 67x (per 2025 Census Bureau estimates), from Wyoming
-to California.
+Beyond that, the Constitution does not specify a minimum physical size threshold. Current states span a roughly 400x range
+by total area from Rhode Island to Alaska. The Constitution also does not specify a minimum population threshold. From the 2025 Census Bureau, there is a 67x range in population from Wyoming to California.
 
-So historically, how small could a state actually get?
+Since the Constitution does not restrict minimum size, what has historical precedent shown?
 
 ## The Practical Floor Has Always Been Political, Not Legal
 
