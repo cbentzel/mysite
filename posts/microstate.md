@@ -38,10 +38,7 @@ Once admitted, a state has the same constitutional status as every other state (
 text gives every state, new or old, the same baseline representation regardless of population:
 
 - **Two Senators**, guaranteed by Article I, Section 3, and further locked in by Article V, one of
-  the Constitution's two original express limits on the amendment power. (The other — barring any
-  change to the slave-trade and capitation-tax clauses before 1808 — expired that year, as
-  designed.) Equal Senate suffrage is the one still standing, and it can't be amended away from a
-  state without that state's own consent.
+  the Constitution's two original express limits on the amendment power.
 - **At least one Representative**, guaranteed by Article I, Section 2, regardless of population.
 - **Electoral votes** guaranteed by Article II, Section 1: House seats plus Senate seats, so a
   minimum of three regardless of how small the state is.
