@@ -33,6 +33,12 @@ through ordinary legislation, which means it goes through the normal Article I, 
 presentment process like any other bill. If the President vetoes it, two-thirds of each chamber of
 Congress can override.
 
+"Both chambers of Congress" is also doing more work than it looks. The House needs only a simple
+majority, but Senate Rule XXII lets 41 senators sustain a filibuster indefinitely; ending debate
+takes cloture — 60 votes, not 51. Nothing in the Constitution requires a supermajority to admit a
+state, but nothing about statehood exempts it from the filibuster either, so in modern practice
+it's a de facto 60-vote requirement unless the Senate changes its own rules first.
+
 Once admitted, a state has the same constitutional status as every other state (*Coyle v. Smith*,
 1911) — Congress can't attach permanent second-class conditions to it. And the Constitution's own
 text gives every state, new or old, the same baseline representation regardless of population:
@@ -89,10 +95,8 @@ The only two checks are:
 1. **The Guarantee Clause**, which *Luther v. Borden* treats as non-justiciable — so it's mainly a
    political argument Congress could raise against admission, not a bar courts have historically
    been willing to enforce.
-2. **The ordinary legislative process** — majorities in the House and Senate, plus a presidential
-   signature (or veto override). In modern practice, that also means surviving a Senate filibuster,
-   which requires 60 votes unless the chamber carves out an exception the way it has for some
-   other categories of business.
+2. **The ordinary legislative process** — a House majority, the Senate's de facto 60-vote cloture
+   threshold described above, and a presidential signature or veto override.
 
 So the honest answer is: there's no textual bar, and no court has ever been willing to enforce
 one — which is not quite the same claim as "a one-person state is settled, affirmative law."
