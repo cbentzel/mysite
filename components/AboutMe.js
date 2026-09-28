@@ -5,9 +5,6 @@ export default function AboutMe() {
   return (
     <article className="tufte-article">
       <h1 className="title">{userData.name}</h1>
-      <p className="subtitle">
-        Engineering leader, builder, part-time roboticist and game developer.
-      </p>
 
       <figure className="marginfigure">
         <img src={userData.avatarUrl} alt="avatar" />
