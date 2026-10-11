@@ -1,6 +1,6 @@
 ---
 title: "Microstates"
-date: "2026-10-10"
+date: "2026-10-11"
 excerpt: "Can a one-person US state exist? What would the impact be?"
 ---
 
@@ -90,9 +90,9 @@ numbers choosing to use them.
 
 Wyoming's admission in 1890 was part of a larger wave of western state additions. In February of 1889, a
 [single bill](https://en.wikipedia.org/wiki/Enabling_Act_of_1889) admitted North Dakota, South Dakota,
-Montana, and Washington as states in the Union. Although this was technically done without a Republican Trifecta
-- both the House and the President were Democratic Party controlled - it was signed during a lame duck period right before
-the inauguration of a tri-fecta government from the 1888 election. Wyoming was then admitted in 1890 with
+Montana, and Washington as states in the Union. Although this was technically done without a Republican Trifecta - 
+both the House and the President were Democratic Party controlled - it was signed during a lame duck period right before
+the inauguration of the 1888 election Republican tri-fecta government. Wyoming was then admitted in 1890 with
 an active tri-fecta government, and was intentionally admitted prior to the 1890 midterm elections.
 This move ended up being [futile](https://en.wikipedia.org/wiki/1890_United_States_House_of_Representatives_elections) in
 preserving a Republican stronghold, but does lay some precedent for small states being admitted to try to preserve
@@ -116,14 +116,14 @@ federal trifecta alone does not have:
 3. **Congress admits all the new states** in one or more ordinary statutes, signed by the
    President.
 
-The payoff is Senate seats and Electoral College votes, not House seats. Because every state gets exactly two Senators
+The primary payoff is Senate seats and Electoral College votes, not House seats. Because every state gets exactly two Senators
 regardless of population, splitting one large state into, say, ten friendly small states turns 2
 Senate seats into 20, while the opposition-heavy remainder state - even if it holds most of the
 original population - is still capped at 2.
 
 This is not a purely theoretical thought experiment; versions of it have been floated seriously:
 
-- **["Six Californias"](https://www.npr.org/2018/06/13/619525289/california-or-cali-three-nia-proposal-to-split-state-will-be-on-ballot-in-novemb)**
+- **["Six Californias"](https://en.wikipedia.org/wiki/Six_Californias)**
   and the later "Cal 3" ballot measure proposed splitting California into multiple states,
   explicitly discussed in terms of the Senate seats it would create.
 - **["Pack the Union"](https://harvardlawreview.org/print/vol-133/pack-the-union-a-proposal-to-admit-new-states-for-the-purpose-of-amending-the-constitution-to-ensure-equal-representation/)**,
