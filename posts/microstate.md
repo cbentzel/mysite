@@ -4,6 +4,11 @@ date: "2026-10-11"
 excerpt: "Can a one-person US state exist? What would the impact be?"
 ---
 
+<figure class="marginfigure">
+  <img src="/central_maine.jpg" alt="Map of Maine with the official Central Region highlighted, which sits in the western part of the state rather than the geographic center" />
+  <figcaption>Central Maine - not quite Central, but in Maine</figcaption>
+</figure>
+
 I grew up in Central Maine. As a teenager, I learned how influential many of the senators from our region were, such as [Margaret Chase Smith](https://en.wikipedia.org/wiki/Margaret_Chase_Smith), [George Mitchell](https://en.wikipedia.org/wiki/George_J._Mitchell), and [Edmund Muskie](https://en.wikipedia.org/wiki/Edmund_Muskie).
 
 They were all very accomplished leaders. 
@@ -37,6 +42,11 @@ President's role is there because admission is accomplished
 through ordinary legislation, which means it goes through the normal Article I, Section 7
 presentment process like any other bill. If the President vetoes it, two-thirds of each chamber of
 Congress can override.
+
+<figure class="marginfigure">
+  <img src="/john_denver.jpg" alt="John Denver, Take Me Home, Country Roads single cover" />
+  <figcaption>Wait, was West Virginia ever a legitimate state?</figcaption>
+</figure>
 
 How thin can the state legislature's consent actually be? West Virginia is
 the clearest illustration. When it split from Virginia in 1863, Virginia's government
@@ -88,6 +98,11 @@ Nevada's admission in 1864 happened under a Republican-Union trifecta built almo
 own Democrats being absent from Congress during the Civil War. This was not a close call, just a party with the
 numbers choosing to use them.
 
+<figure class="marginfigure">
+  <img src="/enabling_act.jpg" alt="First page of the Enabling Act of 1889" />
+  <figcaption>The Enabling Act of 1889</figcaption>
+</figure>
+
 Wyoming's admission in 1890 was part of a larger wave of western state additions. In February of 1889, a
 [single bill](https://en.wikipedia.org/wiki/Enabling_Act_of_1889) admitted North Dakota, South Dakota,
 Montana, and Washington as states in the Union. Although this was technically done without a Republican Trifecta - 
@@ -136,6 +151,11 @@ This is not a purely theoretical thought experiment; versions of it have been fl
   party's favor depending on who controls the legislature doing the splitting.
 
 ### Many 75,000-Person States
+
+<figure class="marginfigure">
+  <img src="/california_shattered.png" alt="Map of California shattered into hundreds of small Democratic districts of about 75,000 people each, surrounding one large contiguous Republican remainder district" />
+  <figcaption>Gerrymandering taken to its absurd conclusion.</figcaption>
+</figure>
 
 Nothing in the math above caps the number of new states at ten. Push the same mechanism further,
 while staying well inside a size Congress has already treated as an ordinary state. Use 75,000 as a basis,
@@ -264,6 +284,10 @@ for their own state's constituents or even their own self-interest since their i
 all very real barriers which makes the proposal more of an intellectual exercise than a pragmatic reality.
 
 ## Appendix: Could a One-Person State Exist?
+
+<figure class="marginfigure">
+  <img src="/my_own_private_idaho.jpg" alt="My Own Private Idaho movie poster" />
+</figure>
 
 Everything above works with ordinary-sized small states - real places with real neighborhoods, the
 kind Congress has actually admitted before. It's worth pushing the idea past that, if only because
