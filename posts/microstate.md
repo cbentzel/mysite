@@ -1,16 +1,19 @@
 ---
 title: "Microstates"
 date: "2026-10-10"
-excerpt: "How small can a US State be, and how can it be abused?"
+excerpt: "Can a one-person US state exist? What would the impact be?"
 ---
 
 I grew up in Central Maine. As a teenager, I learned how influential many of the senators from our region were, such as [Margaret Chase Smith](https://en.wikipedia.org/wiki/Margaret_Chase_Smith), [George Mitchell](https://en.wikipedia.org/wiki/George_J._Mitchell), and [Edmund Muskie](https://en.wikipedia.org/wiki/Edmund_Muskie).
 
 They were all very accomplished leaders. 
 
-But their influence may have partially been due to the disproportionate power smaller states have in the federal government, particularly in the Senate.
+But part of their influence may have due to the disproportionate power smaller states have in the federal government, particularly in the Senate.
 
-Recently I've been exploring how small a state can be, and how small states could be used by a political party to gain entrenched power. This post shares what I've learned.
+Recently I went down a rabbit hole exploring how small a US State could actually be, and how it could be used to get wildly disproportionate national impact.
+This led to learning a lot about historical precedents, court rulings on Gerrymandering, and many other related topics.
+
+This post shares what I've learned.
 
 *Disclosure: I used AI (Claude, ChatGPT, Gemini) in researching this post and to generate material. I reviewed, wrote sections, and did the final edit pass myself.*
 
@@ -258,7 +261,7 @@ law is irrelevant: whether the equal-Senate-suffrage clause in Article V can its
 procedure it constrains is a genuinely unresolved question, and nobody has ever tried it. The risk of secession and
 serious political backlash would be substantial, and house and senate members would need to vote more for party than
 for their own state's constituents or even their own self-interest since their influence will be diluted. These are
-all very real barriers which makes the description more of an intellectual exercise than a pragmatic reality.
+all very real barriers which makes the proposal more of an intellectual exercise than a pragmatic reality.
 
 ## Appendix: Could a One-Person State Exist?
 
